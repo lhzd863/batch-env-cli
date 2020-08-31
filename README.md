@@ -1,6 +1,6 @@
 # batch-env-cli
 ```
-批量数据运行环境
+批量运行环境
 功能：
 1. 支持定义系统环境变量
 2. 支持提交hivesql , mysql ,postgress等存储SQL语句。
