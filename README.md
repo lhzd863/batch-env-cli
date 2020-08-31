@@ -15,3 +15,14 @@
 bash nsrpt_psql_rpt_test0000.sh NSRPT_PSQL_RPT_TEST.20170101.000000
 
 ```
+
+# dependency
+```
+ https://github.com/lhzd863/CronExpressionParse
+```
+
+# 注意
+```
+1. 本项目采用逐条SQL语句条件，如果项目SQL很多，运行时长比较短，会影响批量运行性能
+
+```
